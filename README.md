@@ -1,2 +1,1 @@
 # Ousia
-My private consultant.
